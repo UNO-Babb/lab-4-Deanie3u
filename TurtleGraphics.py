@@ -36,13 +36,6 @@ def fillCorner(alice, corner):
         drawSquare(alice, 50)
         alice.end_fill()
     
-    
-    
-        
-    
-    
-
-
 def main():
     myTurtle = turtle.Turtle()
     myTurtle.speed(20)
